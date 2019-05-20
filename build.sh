@@ -2,7 +2,7 @@
 set -e
 
 DOCKER_TAG="haproxytech/haproxy-arm32v7"
-HAPROXY_BRANCHES="2.0"
+HAPROXY_BRANCHES="1.6 1.7 1.8 1.9 2.0"
 HAPROXY_CURRENT_BRANCH="1.9"
 PUSH="no"
 
