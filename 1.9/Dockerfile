@@ -1,4 +1,4 @@
-FROM arm32v7/ubuntu
+FROM arm32v7/ubuntu:bionic
 
 MAINTAINER Dinko Korunic <dkorunic@haproxy.com>
 
